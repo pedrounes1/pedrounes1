@@ -6,7 +6,7 @@
 
 I'm a Brazilian Data Analyst | Business Intelligence Analyst thats works with Python, SQL, Power Bi, Microsoft Excel and VBA. I also have knowledge with JavaScript and bash.
 
-I've been worked with data analysis since 2016 using MS Excel and PowerBI and since 2019 I've started with python and relational databases (MySQL and PostgreSQL). I 'm a data-driven person with experience gathering and analyzing  data from multiples sources and extracting insights from them.
+I've been worked with data analysis since 2016 using MS Excel and PowerBI. In 2019 I've started with python and relational databases (MySQL and PostgreSQL). I 'm a data-driven person with experience gathering and analyzing  data from multiples sources and extracting insights from them.
 
 I have a bachelor degree on Business Administration and a specialization on Business Intelligence and Databases. I believe in constant improvement and I try to keep learning everything that I can.
 

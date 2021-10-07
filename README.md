@@ -23,7 +23,9 @@ I have a bachelor degree on Business Administration and a specialization on Busi
 - Microsoft Excel, including advanced formulas (INDEX, MATCH, OFFSET, VLOOKUP), array formulas and VBA;
 - Google Sheets, including use of AppScript and API to manipulate data;
 - Microsoft Power BI (both Desktop and Online), including DAX and ETL flow;
-- Knowledge with git and github;
+- Git (CLI) and GitHub;
+- Shell script (Bash and CMD/Batch);
+- Container aplications, using Docker;
 
 ### 🌱 Soft Skills:
 - Self motivated;
@@ -32,7 +34,7 @@ I have a bachelor degree on Business Administration and a specialization on Busi
 - Experience with fast-paced environments and short deadlines;
 - Ability with multitasking, priority setting and conflict solving
 
-You cand find all my contacts/social media on [my lintree](https://linktr.ee/pedrounes)
+You cand find all my contacts/social media on [my linktree](https://linktr.ee/pedrounes)
 
 <!--
 **pedrounes1/pedrounes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
